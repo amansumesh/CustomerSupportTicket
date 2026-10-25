@@ -1,0 +1,2016 @@
+[
+  {
+    "subject": "Mobile app crashes on iOS 18 launch when dark mode is enabled",
+    "description": "Every time I open the app on iOS 18 with system dark mode turned on, it crashes instantly after displaying the splash screen. Reinstalling did not fix the problem.",
+    "customer_name": "Tariq Siddiqui",
+    "customer_email": "tariq.s@nexustech.org",
+    "channel": "Mobile App",
+    "tags": [
+      "bug",
+      "ios18",
+      "crash"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Sarah Jenkins",
+    "predicted_queue": "Product Support",
+    "queue": "Product Support",
+    "queue_confidence": 0.2678,
+    "top_queues": [
+      {
+        "queue": "Product Support",
+        "confidence": 0.2678
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.1911
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1166
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0683,
+      "Customer Service": 0.0591,
+      "General Inquiry": 0.0652,
+      "Human Resources": 0.0581,
+      "IT Support": 0.1911,
+      "Product Support": 0.2678,
+      "Returns and Exchanges": 0.0611,
+      "Sales and Pre-Sales": 0.0794,
+      "Service Outages and Maintenance": 0.0333,
+      "Technical Support": 0.1166
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4565,
+    "priority_distribution": {
+      "high": 0.4565,
+      "low": 0.166,
+      "medium": 0.3775
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Product Support (26.8%)",
+        "timestamp": "2026-10-23T08:29:42.503952+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.503952+00:00",
+    "updated_at": "2026-10-23T08:29:42.503952+00:00",
+    "ticket_id": "TCK-F4227F77",
+    "_id": "781986e6-971a-403b-a7e8-e3741ad1dd9b"
+  },
+  {
+    "subject": "Question regarding healthcare benefit enrollment deadline",
+    "description": "I would like to verify the submission deadline for the upcoming open enrollment window for supplemental vision and dental insurance for full-time remote staff.",
+    "customer_name": "Hannah Abbott",
+    "customer_email": "h.abbott@internal.corp",
+    "channel": "Internal Portal",
+    "tags": [
+      "hr",
+      "benefits",
+      "enrollment"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Karen Smith",
+    "predicted_queue": "Customer Service",
+    "queue": "Customer Service",
+    "queue_confidence": 0.1185,
+    "top_queues": [
+      {
+        "queue": "Customer Service",
+        "confidence": 0.1185
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1174
+      },
+      {
+        "queue": "Service Outages and Maintenance",
+        "confidence": 0.1169
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1174,
+      "Customer Service": 0.1185,
+      "General Inquiry": 0.0744,
+      "Human Resources": 0.1148,
+      "IT Support": 0.0925,
+      "Product Support": 0.0819,
+      "Returns and Exchanges": 0.0775,
+      "Sales and Pre-Sales": 0.0902,
+      "Service Outages and Maintenance": 0.1169,
+      "Technical Support": 0.116
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4774,
+    "priority_distribution": {
+      "high": 0.4774,
+      "low": 0.1877,
+      "medium": 0.3348
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Customer Service (11.8%)",
+        "timestamp": "2026-10-23T08:29:42.460127+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.460127+00:00",
+    "updated_at": "2026-10-23T08:29:42.460127+00:00",
+    "ticket_id": "TCK-E20E5837",
+    "_id": "6778fcf1-aa6d-472a-8595-71095458cb23"
+  },
+  {
+    "subject": "Enterprise tier volume discount inquiry for 500+ seats",
+    "description": "Our procurement department is evaluating your platform for our global customer operations team (~550 licenses). Could an account executive reach out to discuss multi-year enterprise volume pricing?",
+    "customer_name": "Jonathan Burke",
+    "customer_email": "j.burke@megaglobal.com",
+    "channel": "Web Portal",
+    "tags": [
+      "sales",
+      "enterprise",
+      "quote"
+    ],
+    "status": "Open",
+    "assigned_agent": "Elena Rostova",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2175,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2175
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1863
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.1069
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1863,
+      "Customer Service": 0.0783,
+      "General Inquiry": 0.0765,
+      "Human Resources": 0.0839,
+      "IT Support": 0.2175,
+      "Product Support": 0.0475,
+      "Returns and Exchanges": 0.0671,
+      "Sales and Pre-Sales": 0.1069,
+      "Service Outages and Maintenance": 0.0363,
+      "Technical Support": 0.0997
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5881,
+    "priority_distribution": {
+      "high": 0.1172,
+      "low": 0.2947,
+      "medium": 0.5881
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: IT Support (21.8%)",
+        "timestamp": "2026-10-23T08:29:42.410257+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.410257+00:00",
+    "updated_at": "2026-10-23T08:29:42.410257+00:00",
+    "ticket_id": "TCK-D9AEB332",
+    "_id": "f0aaf289-34ed-4356-a818-d479bacc972e"
+  },
+  {
+    "subject": "SSO SAML login fails with Invalid EntityID error",
+    "description": "After configuring our Okta SAML application according to the documentation, our employees receive error 'Invalid EntityID: urn:auth:org-482' upon authentication redirection.",
+    "customer_name": "Rachel Thorne",
+    "customer_email": "rachel.thorne@cybercloud.net",
+    "channel": "Web Portal",
+    "tags": [
+      "sso",
+      "saml",
+      "authentication",
+      "it-support"
+    ],
+    "status": "Open",
+    "assigned_agent": "Alex Rivera",
+    "predicted_queue": "Technical Support",
+    "queue": "Technical Support",
+    "queue_confidence": 0.2431,
+    "top_queues": [
+      {
+        "queue": "Technical Support",
+        "confidence": 0.2431
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1609
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.129
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0398,
+      "Customer Service": 0.0367,
+      "General Inquiry": 0.0572,
+      "Human Resources": 0.1609,
+      "IT Support": 0.1266,
+      "Product Support": 0.0869,
+      "Returns and Exchanges": 0.0634,
+      "Sales and Pre-Sales": 0.129,
+      "Service Outages and Maintenance": 0.0565,
+      "Technical Support": 0.2431
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6274,
+    "priority_distribution": {
+      "high": 0.6274,
+      "low": 0.1305,
+      "medium": 0.2421
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Technical Support (24.3%)",
+        "timestamp": "2026-10-23T08:29:42.363051+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.363051+00:00",
+    "updated_at": "2026-10-23T08:29:42.363051+00:00",
+    "ticket_id": "TCK-740AD443",
+    "_id": "d03c9557-c02a-4e76-a994-e52ed41251db"
+  },
+  {
+    "subject": "Exchange requested for damaged ergonomic keyboard",
+    "description": "Package #PKG-9821 arrived yesterday with crushed corner packaging and several unresponsive keys on the ergonomic mechanical keyboard. I'd like to initiate an exchange for a replacement unit.",
+    "customer_name": "Lucas Meyer",
+    "customer_email": "lucas.m@berlin-design.de",
+    "channel": "Mobile App",
+    "tags": [
+      "hardware",
+      "exchange",
+      "damaged"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Carlos Gomez",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2377,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2377
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1603
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1102
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1102,
+      "Customer Service": 0.0705,
+      "General Inquiry": 0.0602,
+      "Human Resources": 0.092,
+      "IT Support": 0.2377,
+      "Product Support": 0.1603,
+      "Returns and Exchanges": 0.1008,
+      "Sales and Pre-Sales": 0.066,
+      "Service Outages and Maintenance": 0.0586,
+      "Technical Support": 0.0438
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5902,
+    "priority_distribution": {
+      "high": 0.1899,
+      "low": 0.22,
+      "medium": 0.5902
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: IT Support (23.8%)",
+        "timestamp": "2026-10-23T08:29:42.308738+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.308738+00:00",
+    "updated_at": "2026-10-23T08:29:42.308738+00:00",
+    "ticket_id": "TCK-50348FE3",
+    "_id": "eaea286b-33bd-4b16-ba88-ff430d48e8b1"
+  },
+  {
+    "subject": "How to export monthly compliance reports in PDF?",
+    "description": "Hello, our audit team needs to pull the monthly compliance logs in PDF or CSV format. Could you point me to the right dashboard section or provide a tutorial link?",
+    "customer_name": "Amira Al-Mansoor",
+    "customer_email": "amira.m@enterprise-holdings.ae",
+    "channel": "Web Portal",
+    "tags": [
+      "reports",
+      "question",
+      "compliance"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Priya Nair",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.1769,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1769
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1394
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1176
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1769,
+      "Customer Service": 0.0908,
+      "General Inquiry": 0.084,
+      "Human Resources": 0.1176,
+      "IT Support": 0.1134,
+      "Product Support": 0.1394,
+      "Returns and Exchanges": 0.0747,
+      "Sales and Pre-Sales": 0.0557,
+      "Service Outages and Maintenance": 0.0414,
+      "Technical Support": 0.1061
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6976,
+    "priority_distribution": {
+      "high": 0.6976,
+      "low": 0.1613,
+      "medium": 0.1411
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (17.7%)",
+        "timestamp": "2026-10-23T08:29:42.263737+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.263737+00:00",
+    "updated_at": "2026-10-23T08:29:42.263737+00:00",
+    "ticket_id": "TCK-7A56A404",
+    "_id": "9e552b17-d1aa-4e65-92a2-88fd4e741435"
+  },
+  {
+    "subject": "Production API throwing 504 Gateway Timeout intermittently",
+    "description": "Since 14:00 UTC, our integration services have been getting repeated 504 Gateway Timeout errors when calling the `/v2/transactions` endpoint. Critical impact on checkout pipeline.",
+    "customer_name": "David Sterling",
+    "customer_email": "d.sterling@fintechflow.com",
+    "channel": "Web Portal",
+    "tags": [
+      "outage",
+      "production-down",
+      "api"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Sarah Jenkins",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.2134,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.2134
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1354
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1321
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.2134,
+      "Customer Service": 0.0757,
+      "General Inquiry": 0.0821,
+      "Human Resources": 0.0448,
+      "IT Support": 0.095,
+      "Product Support": 0.1354,
+      "Returns and Exchanges": 0.0615,
+      "Sales and Pre-Sales": 0.0653,
+      "Service Outages and Maintenance": 0.0947,
+      "Technical Support": 0.1321
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.5111,
+    "priority_distribution": {
+      "high": 0.5111,
+      "low": 0.3053,
+      "medium": 0.1837
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (21.3%)",
+        "timestamp": "2026-10-23T08:29:42.213217+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:42.213217+00:00",
+    "updated_at": "2026-10-23T08:29:42.213217+00:00",
+    "ticket_id": "TCK-1EB26657",
+    "_id": "38ff5d05-eb3e-4bfa-9b07-8215551ab224"
+  },
+  {
+    "subject": "Double charged on my annual subscription plan",
+    "description": "I noticed on my credit card statement this morning that I was billed $240 twice for the annual premium subscription. Please reverse the duplicate charge immediately.",
+    "customer_name": "Eleanor Vance",
+    "customer_email": "eleanor.vance@acme.io",
+    "channel": "Email",
+    "tags": [
+      "billing",
+      "duplicate-charge",
+      "urgent"
+    ],
+    "status": "Open",
+    "assigned_agent": "Marcus Chen",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.4952,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.4952
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1181
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.0624
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.4952,
+      "Customer Service": 0.0295,
+      "General Inquiry": 0.0433,
+      "Human Resources": 0.0475,
+      "IT Support": 0.0624,
+      "Product Support": 0.1181,
+      "Returns and Exchanges": 0.0534,
+      "Sales and Pre-Sales": 0.0484,
+      "Service Outages and Maintenance": 0.0509,
+      "Technical Support": 0.0514
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4057,
+    "priority_distribution": {
+      "high": 0.4057,
+      "low": 0.1944,
+      "medium": 0.3999
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (49.5%)",
+        "timestamp": "2026-10-23T08:29:40.662864+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:40.662864+00:00",
+    "updated_at": "2026-10-23T08:29:40.662864+00:00",
+    "ticket_id": "TCK-E8DD92B1",
+    "_id": "d288728c-8a91-4398-907c-2113c4275516"
+  },
+  {
+    "subject": "Mobile app crashes on iOS 18 launch when dark mode is enabled",
+    "description": "Every time I open the app on iOS 18 with system dark mode turned on, it crashes instantly after displaying the splash screen. Reinstalling did not fix the problem.",
+    "customer_name": "Tariq Siddiqui",
+    "customer_email": "tariq.s@nexustech.org",
+    "channel": "Mobile App",
+    "tags": [
+      "bug",
+      "ios18",
+      "crash"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Sarah Jenkins",
+    "predicted_queue": "Product Support",
+    "queue": "Product Support",
+    "queue_confidence": 0.2678,
+    "top_queues": [
+      {
+        "queue": "Product Support",
+        "confidence": 0.2678
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.1911
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1166
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0683,
+      "Customer Service": 0.0591,
+      "General Inquiry": 0.0652,
+      "Human Resources": 0.0581,
+      "IT Support": 0.1911,
+      "Product Support": 0.2678,
+      "Returns and Exchanges": 0.0611,
+      "Sales and Pre-Sales": 0.0794,
+      "Service Outages and Maintenance": 0.0333,
+      "Technical Support": 0.1166
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4565,
+    "priority_distribution": {
+      "high": 0.4565,
+      "low": 0.166,
+      "medium": 0.3775
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Product Support (26.8%)",
+        "timestamp": "2026-10-23T08:29:17.708653+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.708653+00:00",
+    "updated_at": "2026-10-23T08:29:17.708653+00:00",
+    "ticket_id": "TCK-DBFD77F4",
+    "_id": "33557ca9-285c-4392-b302-635d080f3f01"
+  },
+  {
+    "subject": "Question regarding healthcare benefit enrollment deadline",
+    "description": "I would like to verify the submission deadline for the upcoming open enrollment window for supplemental vision and dental insurance for full-time remote staff.",
+    "customer_name": "Hannah Abbott",
+    "customer_email": "h.abbott@internal.corp",
+    "channel": "Internal Portal",
+    "tags": [
+      "hr",
+      "benefits",
+      "enrollment"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Karen Smith",
+    "predicted_queue": "Customer Service",
+    "queue": "Customer Service",
+    "queue_confidence": 0.1185,
+    "top_queues": [
+      {
+        "queue": "Customer Service",
+        "confidence": 0.1185
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1174
+      },
+      {
+        "queue": "Service Outages and Maintenance",
+        "confidence": 0.1169
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1174,
+      "Customer Service": 0.1185,
+      "General Inquiry": 0.0744,
+      "Human Resources": 0.1148,
+      "IT Support": 0.0925,
+      "Product Support": 0.0819,
+      "Returns and Exchanges": 0.0775,
+      "Sales and Pre-Sales": 0.0902,
+      "Service Outages and Maintenance": 0.1169,
+      "Technical Support": 0.116
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4774,
+    "priority_distribution": {
+      "high": 0.4774,
+      "low": 0.1877,
+      "medium": 0.3348
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Customer Service (11.8%)",
+        "timestamp": "2026-10-23T08:29:17.659580+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.659580+00:00",
+    "updated_at": "2026-10-23T08:29:17.659580+00:00",
+    "ticket_id": "TCK-5FA8733E",
+    "_id": "b7860555-8f1a-4be9-aac4-f635ee7c6154"
+  },
+  {
+    "subject": "Enterprise tier volume discount inquiry for 500+ seats",
+    "description": "Our procurement department is evaluating your platform for our global customer operations team (~550 licenses). Could an account executive reach out to discuss multi-year enterprise volume pricing?",
+    "customer_name": "Jonathan Burke",
+    "customer_email": "j.burke@megaglobal.com",
+    "channel": "Web Portal",
+    "tags": [
+      "sales",
+      "enterprise",
+      "quote"
+    ],
+    "status": "Open",
+    "assigned_agent": "Elena Rostova",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2175,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2175
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1863
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.1069
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1863,
+      "Customer Service": 0.0783,
+      "General Inquiry": 0.0765,
+      "Human Resources": 0.0839,
+      "IT Support": 0.2175,
+      "Product Support": 0.0475,
+      "Returns and Exchanges": 0.0671,
+      "Sales and Pre-Sales": 0.1069,
+      "Service Outages and Maintenance": 0.0363,
+      "Technical Support": 0.0997
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5881,
+    "priority_distribution": {
+      "high": 0.1172,
+      "low": 0.2947,
+      "medium": 0.5881
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: IT Support (21.8%)",
+        "timestamp": "2026-10-23T08:29:17.611196+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.611196+00:00",
+    "updated_at": "2026-10-23T08:29:17.611196+00:00",
+    "ticket_id": "TCK-B435B629",
+    "_id": "0933cfb1-904c-4776-aab9-b8981e5781e0"
+  },
+  {
+    "subject": "SSO SAML login fails with Invalid EntityID error",
+    "description": "After configuring our Okta SAML application according to the documentation, our employees receive error 'Invalid EntityID: urn:auth:org-482' upon authentication redirection.",
+    "customer_name": "Rachel Thorne",
+    "customer_email": "rachel.thorne@cybercloud.net",
+    "channel": "Web Portal",
+    "tags": [
+      "sso",
+      "saml",
+      "authentication",
+      "it-support"
+    ],
+    "status": "Open",
+    "assigned_agent": "Alex Rivera",
+    "predicted_queue": "Technical Support",
+    "queue": "Technical Support",
+    "queue_confidence": 0.2431,
+    "top_queues": [
+      {
+        "queue": "Technical Support",
+        "confidence": 0.2431
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1609
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.129
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0398,
+      "Customer Service": 0.0367,
+      "General Inquiry": 0.0572,
+      "Human Resources": 0.1609,
+      "IT Support": 0.1266,
+      "Product Support": 0.0869,
+      "Returns and Exchanges": 0.0634,
+      "Sales and Pre-Sales": 0.129,
+      "Service Outages and Maintenance": 0.0565,
+      "Technical Support": 0.2431
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6274,
+    "priority_distribution": {
+      "high": 0.6274,
+      "low": 0.1305,
+      "medium": 0.2421
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Technical Support (24.3%)",
+        "timestamp": "2026-10-23T08:29:17.560007+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.560007+00:00",
+    "updated_at": "2026-10-23T08:29:17.560007+00:00",
+    "ticket_id": "TCK-DED5CDB9",
+    "_id": "655726ea-ec84-49ef-a9db-0f37400d3f2e"
+  },
+  {
+    "subject": "Exchange requested for damaged ergonomic keyboard",
+    "description": "Package #PKG-9821 arrived yesterday with crushed corner packaging and several unresponsive keys on the ergonomic mechanical keyboard. I'd like to initiate an exchange for a replacement unit.",
+    "customer_name": "Lucas Meyer",
+    "customer_email": "lucas.m@berlin-design.de",
+    "channel": "Mobile App",
+    "tags": [
+      "hardware",
+      "exchange",
+      "damaged"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Carlos Gomez",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2377,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2377
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1603
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1102
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1102,
+      "Customer Service": 0.0705,
+      "General Inquiry": 0.0602,
+      "Human Resources": 0.092,
+      "IT Support": 0.2377,
+      "Product Support": 0.1603,
+      "Returns and Exchanges": 0.1008,
+      "Sales and Pre-Sales": 0.066,
+      "Service Outages and Maintenance": 0.0586,
+      "Technical Support": 0.0438
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5902,
+    "priority_distribution": {
+      "high": 0.1899,
+      "low": 0.22,
+      "medium": 0.5902
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: IT Support (23.8%)",
+        "timestamp": "2026-10-23T08:29:17.523661+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.523661+00:00",
+    "updated_at": "2026-10-23T08:29:17.523661+00:00",
+    "ticket_id": "TCK-D40685F6",
+    "_id": "c1d8b1c8-f0e6-472a-b907-eae063823cce"
+  },
+  {
+    "subject": "How to export monthly compliance reports in PDF?",
+    "description": "Hello, our audit team needs to pull the monthly compliance logs in PDF or CSV format. Could you point me to the right dashboard section or provide a tutorial link?",
+    "customer_name": "Amira Al-Mansoor",
+    "customer_email": "amira.m@enterprise-holdings.ae",
+    "channel": "Web Portal",
+    "tags": [
+      "reports",
+      "question",
+      "compliance"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Priya Nair",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.1769,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1769
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1394
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1176
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1769,
+      "Customer Service": 0.0908,
+      "General Inquiry": 0.084,
+      "Human Resources": 0.1176,
+      "IT Support": 0.1134,
+      "Product Support": 0.1394,
+      "Returns and Exchanges": 0.0747,
+      "Sales and Pre-Sales": 0.0557,
+      "Service Outages and Maintenance": 0.0414,
+      "Technical Support": 0.1061
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6976,
+    "priority_distribution": {
+      "high": 0.6976,
+      "low": 0.1613,
+      "medium": 0.1411
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (17.7%)",
+        "timestamp": "2026-10-23T08:29:17.474145+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.474145+00:00",
+    "updated_at": "2026-10-23T08:29:17.474145+00:00",
+    "ticket_id": "TCK-AA5F1B47",
+    "_id": "0f2b2083-b074-41ae-9e7a-86cbb35f04b8"
+  },
+  {
+    "subject": "Production API throwing 504 Gateway Timeout intermittently",
+    "description": "Since 14:00 UTC, our integration services have been getting repeated 504 Gateway Timeout errors when calling the `/v2/transactions` endpoint. Critical impact on checkout pipeline.",
+    "customer_name": "David Sterling",
+    "customer_email": "d.sterling@fintechflow.com",
+    "channel": "Web Portal",
+    "tags": [
+      "outage",
+      "production-down",
+      "api"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Sarah Jenkins",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.2134,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.2134
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1354
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1321
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.2134,
+      "Customer Service": 0.0757,
+      "General Inquiry": 0.0821,
+      "Human Resources": 0.0448,
+      "IT Support": 0.095,
+      "Product Support": 0.1354,
+      "Returns and Exchanges": 0.0615,
+      "Sales and Pre-Sales": 0.0653,
+      "Service Outages and Maintenance": 0.0947,
+      "Technical Support": 0.1321
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.5111,
+    "priority_distribution": {
+      "high": 0.5111,
+      "low": 0.3053,
+      "medium": 0.1837
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (21.3%)",
+        "timestamp": "2026-10-23T08:29:17.427248+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:17.427248+00:00",
+    "updated_at": "2026-10-23T08:29:17.427248+00:00",
+    "ticket_id": "TCK-7FA5A607",
+    "_id": "0082f564-5302-4022-96e6-f265db671a98"
+  },
+  {
+    "subject": "Double charged on my annual subscription plan",
+    "description": "I noticed on my credit card statement this morning that I was billed $240 twice for the annual premium subscription. Please reverse the duplicate charge immediately.",
+    "customer_name": "Eleanor Vance",
+    "customer_email": "eleanor.vance@acme.io",
+    "channel": "Email",
+    "tags": [
+      "billing",
+      "duplicate-charge",
+      "urgent"
+    ],
+    "status": "Open",
+    "assigned_agent": "Marcus Chen",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.4952,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.4952
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1181
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.0624
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.4952,
+      "Customer Service": 0.0295,
+      "General Inquiry": 0.0433,
+      "Human Resources": 0.0475,
+      "IT Support": 0.0624,
+      "Product Support": 0.1181,
+      "Returns and Exchanges": 0.0534,
+      "Sales and Pre-Sales": 0.0484,
+      "Service Outages and Maintenance": 0.0509,
+      "Technical Support": 0.0514
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4057,
+    "priority_distribution": {
+      "high": 0.4057,
+      "low": 0.1944,
+      "medium": 0.3999
+    },
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Classified automatically: Billing and Payments (49.5%)",
+        "timestamp": "2026-10-23T08:29:15.802511+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:15.802511+00:00",
+    "updated_at": "2026-10-23T08:29:15.802511+00:00",
+    "ticket_id": "TCK-84D6D8FB",
+    "_id": "7aee3b2e-71ac-440b-87c4-db55c2409d12"
+  },
+  {
+    "subject": "Double charge on monthly credit card statement",
+    "description": "I noticed two identical charges of $49 on my Visa credit card for this month. Please refund the duplicate billing payment immediately.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.698,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.698
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.0456
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.044
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.698,
+      "Customer Service": 0.0202,
+      "General Inquiry": 0.0306,
+      "Human Resources": 0.0428,
+      "IT Support": 0.044,
+      "Product Support": 0.0456,
+      "Returns and Exchanges": 0.0203,
+      "Sales and Pre-Sales": 0.0226,
+      "Service Outages and Maintenance": 0.0385,
+      "Technical Support": 0.0375
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6073,
+    "priority_distribution": {
+      "high": 0.6073,
+      "low": 0.0673,
+      "medium": 0.3254
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (69.8% confidence) with HIGH priority (60.7% confidence).",
+        "timestamp": "2026-10-23T08:29:03.564224+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T08:29:03.564224+00:00",
+    "updated_at": "2026-10-23T08:29:03.564224+00:00",
+    "ticket_id": "TCK-D067DEDC",
+    "_id": "fedc7128-a203-4e02-b5d7-9ca02ae63a35"
+  },
+  {
+    "subject": "Double charge on monthly credit card statement",
+    "description": "I noticed two identical charges of $49 on my Visa credit card for this month. Please refund the duplicate billing payment immediately.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.698,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.698
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.0456
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.044
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.698,
+      "Customer Service": 0.0202,
+      "General Inquiry": 0.0306,
+      "Human Resources": 0.0428,
+      "IT Support": 0.044,
+      "Product Support": 0.0456,
+      "Returns and Exchanges": 0.0203,
+      "Sales and Pre-Sales": 0.0226,
+      "Service Outages and Maintenance": 0.0385,
+      "Technical Support": 0.0375
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6073,
+    "priority_distribution": {
+      "high": 0.6073,
+      "low": 0.0673,
+      "medium": 0.3254
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (69.8% confidence) with HIGH priority (60.7% confidence).",
+        "timestamp": "2026-10-23T06:57:56.784244+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:57:56.784244+00:00",
+    "updated_at": "2026-10-23T06:57:56.784244+00:00",
+    "ticket_id": "TCK-4370C253",
+    "_id": "2a53b29f-1f22-465c-b081-ed91ade0f2f8"
+  },
+  {
+    "subject": "Return and refund request for damaged order",
+    "description": "I want to return the damaged item I received. Please send me a return shipping label and issue a full refund to my original payment method.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Returns and Exchanges",
+    "queue": "Returns and Exchanges",
+    "queue_confidence": 0.3018,
+    "top_queues": [
+      {
+        "queue": "Returns and Exchanges",
+        "confidence": 0.3018
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1753
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.113
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1753,
+      "Customer Service": 0.0496,
+      "General Inquiry": 0.0592,
+      "Human Resources": 0.0718,
+      "IT Support": 0.056,
+      "Product Support": 0.0571,
+      "Returns and Exchanges": 0.3018,
+      "Sales and Pre-Sales": 0.0471,
+      "Service Outages and Maintenance": 0.0692,
+      "Technical Support": 0.113
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.6513,
+    "priority_distribution": {
+      "high": 0.2359,
+      "low": 0.1127,
+      "medium": 0.6513
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Returns and Exchanges (30.2% confidence) with MEDIUM priority (65.1% confidence).",
+        "timestamp": "2026-10-23T06:46:01.561963+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:46:01.561963+00:00",
+    "updated_at": "2026-10-23T06:46:01.561963+00:00",
+    "ticket_id": "TCK-2F579F1F",
+    "_id": "adb7372c-9221-4307-9f84-c6ef0fc54b2d"
+  },
+  {
+    "subject": "SSO login loop redirecting back to Microsoft prompt",
+    "description": "Employees cannot log in via Okta SAML this morning. The browser gets stuck in an infinite redirect loop.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Human Resources",
+    "queue": "Human Resources",
+    "queue_confidence": 0.2858,
+    "top_queues": [
+      {
+        "queue": "Human Resources",
+        "confidence": 0.2858
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.1593
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.0977
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0939,
+      "Customer Service": 0.078,
+      "General Inquiry": 0.0525,
+      "Human Resources": 0.2858,
+      "IT Support": 0.1593,
+      "Product Support": 0.0567,
+      "Returns and Exchanges": 0.0758,
+      "Sales and Pre-Sales": 0.0528,
+      "Service Outages and Maintenance": 0.0475,
+      "Technical Support": 0.0977
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.6781,
+    "priority_distribution": {
+      "high": 0.1316,
+      "low": 0.1903,
+      "medium": 0.6781
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Human Resources (28.6% confidence) with MEDIUM priority (67.8% confidence).",
+        "timestamp": "2026-10-23T06:21:58.297992+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:21:58.297992+00:00",
+    "updated_at": "2026-10-23T06:21:58.297992+00:00",
+    "ticket_id": "TCK-D017EF8C",
+    "_id": "f98eec65-d9e8-43f6-8528-0462fcdeba1f"
+  },
+  {
+    "subject": "Item arrived shattered in damaged package",
+    "description": "Tracking #991048 package was delivered crushed and the glass blender pitcher is completely broken. Need replacement sent ASAP.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Technical Support",
+    "queue": "Technical Support",
+    "queue_confidence": 0.2299,
+    "top_queues": [
+      {
+        "queue": "Technical Support",
+        "confidence": 0.2299
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1142
+      },
+      {
+        "queue": "Returns and Exchanges",
+        "confidence": 0.1081
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0653,
+      "Customer Service": 0.0935,
+      "General Inquiry": 0.0699,
+      "Human Resources": 0.1142,
+      "IT Support": 0.0961,
+      "Product Support": 0.0592,
+      "Returns and Exchanges": 0.1081,
+      "Sales and Pre-Sales": 0.1049,
+      "Service Outages and Maintenance": 0.0589,
+      "Technical Support": 0.2299
+    },
+    "predicted_priority": "low",
+    "priority": "low",
+    "priority_confidence": 0.5792,
+    "priority_distribution": {
+      "high": 0.1665,
+      "low": 0.5792,
+      "medium": 0.2543
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Technical Support (23.0% confidence) with LOW priority (57.9% confidence).",
+        "timestamp": "2026-10-23T06:21:35.032430+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:21:35.032430+00:00",
+    "updated_at": "2026-10-23T06:21:35.032430+00:00",
+    "ticket_id": "TCK-B562D3C6",
+    "_id": "37a69c44-899f-460a-bd67-dea1195a816a"
+  },
+  {
+    "subject": "Item arrived shattered in damaged package",
+    "description": "Tracking #991048 package was delivered crushed and the glass blender pitcher is completely broken. Need replacement sent ASAP.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Technical Support",
+    "queue": "Technical Support",
+    "queue_confidence": 0.2299,
+    "top_queues": [
+      {
+        "queue": "Technical Support",
+        "confidence": 0.2299
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1142
+      },
+      {
+        "queue": "Returns and Exchanges",
+        "confidence": 0.1081
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0653,
+      "Customer Service": 0.0935,
+      "General Inquiry": 0.0699,
+      "Human Resources": 0.1142,
+      "IT Support": 0.0961,
+      "Product Support": 0.0592,
+      "Returns and Exchanges": 0.1081,
+      "Sales and Pre-Sales": 0.1049,
+      "Service Outages and Maintenance": 0.0589,
+      "Technical Support": 0.2299
+    },
+    "predicted_priority": "low",
+    "priority": "low",
+    "priority_confidence": 0.5792,
+    "priority_distribution": {
+      "high": 0.1665,
+      "low": 0.5792,
+      "medium": 0.2543
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Technical Support (23.0% confidence) with LOW priority (57.9% confidence).",
+        "timestamp": "2026-10-23T06:06:30.928752+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:06:30.928752+00:00",
+    "updated_at": "2026-10-23T06:06:30.928752+00:00",
+    "ticket_id": "TCK-B6EAA35A",
+    "_id": "70e9da5b-3514-42bd-99b9-cce40f493530"
+  },
+  {
+    "subject": "Charged twice for monthly enterprise subscription",
+    "description": "Our account was debited $450 twice for invoice #INV-8891 on April 12. Please refund the duplicate transaction immediately.",
+    "customer_name": "Jordan Taylor",
+    "customer_email": "jordan.taylor@example.com",
+    "channel": "Web Portal",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.6378,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.6378
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.0554
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.0508
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.6378,
+      "Customer Service": 0.031,
+      "General Inquiry": 0.0396,
+      "Human Resources": 0.0317,
+      "IT Support": 0.0508,
+      "Product Support": 0.0554,
+      "Returns and Exchanges": 0.0306,
+      "Sales and Pre-Sales": 0.042,
+      "Service Outages and Maintenance": 0.0436,
+      "Technical Support": 0.0374
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.504,
+    "priority_distribution": {
+      "high": 0.504,
+      "low": 0.0978,
+      "medium": 0.3983
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (63.8% confidence) with HIGH priority (50.4% confidence).",
+        "timestamp": "2026-10-23T06:00:04.360678+00:00"
+      }
+    ],
+    "created_at": "2026-10-23T06:00:04.360678+00:00",
+    "updated_at": "2026-10-23T06:00:04.360678+00:00",
+    "ticket_id": "TCK-9DD28E54",
+    "_id": "461079b2-ab22-4d2e-807b-3fee20a891a6"
+  },
+  {
+    "subject": "Refund for duplicate subscription charge",
+    "description": "I need refund for my subscription",
+    "customer_name": "Customer",
+    "customer_email": "user@example.com",
+    "channel": "Web",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.2995,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.2995
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1014
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.0951
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.2995,
+      "Customer Service": 0.0905,
+      "General Inquiry": 0.0679,
+      "Human Resources": 0.0685,
+      "IT Support": 0.0755,
+      "Product Support": 0.068,
+      "Returns and Exchanges": 0.0647,
+      "Sales and Pre-Sales": 0.0951,
+      "Service Outages and Maintenance": 0.069,
+      "Technical Support": 0.1014
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6465,
+    "priority_distribution": {
+      "high": 0.6465,
+      "low": 0.1722,
+      "medium": 0.1814
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (29.9% confidence) with HIGH priority (64.6% confidence).",
+        "timestamp": "2026-10-22T17:30:37.122550+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T17:30:37.122550+00:00",
+    "updated_at": "2026-10-22T17:30:37.122550+00:00",
+    "ticket_id": "TCK-39A3DE66",
+    "_id": "14303d4f-38ca-4da7-929b-4d9c36f0495b"
+  },
+  {
+    "subject": "Refund for duplicate subscription charge",
+    "description": "My card was charged twice for the monthly billing cycle. Please refund the duplicate transaction.",
+    "customer_name": "Customer",
+    "customer_email": "user@example.com",
+    "channel": "Web",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.7581,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.7581
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.0328
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.0301
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.7581,
+      "Customer Service": 0.0231,
+      "General Inquiry": 0.0285,
+      "Human Resources": 0.0289,
+      "IT Support": 0.0301,
+      "Product Support": 0.0273,
+      "Returns and Exchanges": 0.0185,
+      "Sales and Pre-Sales": 0.0254,
+      "Service Outages and Maintenance": 0.0273,
+      "Technical Support": 0.0328
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.5962,
+    "priority_distribution": {
+      "high": 0.5962,
+      "low": 0.1511,
+      "medium": 0.2527
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (75.8% confidence) with HIGH priority (59.6% confidence).",
+        "timestamp": "2026-10-22T17:22:29.763522+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T17:22:29.763522+00:00",
+    "updated_at": "2026-10-22T17:22:29.763522+00:00",
+    "ticket_id": "TCK-A40D19D5",
+    "_id": "00395c45-7012-42c9-a6f4-4e59cba0b347"
+  },
+  {
+    "subject": "Charged twice for monthly enterprise subscription",
+    "description": "Our finance department noticed two identical debit entries of $450 each on our company Mastercard statement for Invoice INV-8921. Please issue a prompt refund for the duplicate transaction.",
+    "customer_name": "Arthur Pendelton",
+    "customer_email": "arthur@pendelton-legal.com",
+    "channel": "Email",
+    "tags": [],
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.5087,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.5087
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.0842
+      },
+      {
+        "queue": "Returns and Exchanges",
+        "confidence": 0.0616
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.5087,
+      "Customer Service": 0.0531,
+      "General Inquiry": 0.0399,
+      "Human Resources": 0.0427,
+      "IT Support": 0.0591,
+      "Product Support": 0.045,
+      "Returns and Exchanges": 0.0616,
+      "Sales and Pre-Sales": 0.0525,
+      "Service Outages and Maintenance": 0.0533,
+      "Technical Support": 0.0842
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.5909,
+    "priority_distribution": {
+      "high": 0.5909,
+      "low": 0.1274,
+      "medium": 0.2817
+    },
+    "status": "Open",
+    "assigned_agent": "Unassigned",
+    "notes": [
+      {
+        "author": "AI Auto-Triage",
+        "message": "Assigned to Billing and Payments (50.9% confidence) with HIGH priority (59.1% confidence).",
+        "timestamp": "2026-10-22T16:55:42.258655+00:00"
+      },
+      {
+        "author": "Agent",
+        "message": "Investigated charge dispute - processed credit reversal.",
+        "timestamp": "2026-10-22T17:02:13.767106+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:55:42.258655+00:00",
+    "updated_at": "2026-10-22T17:02:13.767106+00:00",
+    "ticket_id": "TCK-3E8A836D",
+    "_id": "b4c7d3b1-46de-4a0a-9a27-d6f7ef4cb42a"
+  },
+  {
+    "subject": "Mobile app crashes on iOS 18 launch when dark mode is enabled",
+    "description": "Every time I open the app on iOS 18 with system dark mode turned on, it crashes instantly after displaying the splash screen. Reinstalling did not fix the problem.",
+    "customer_name": "Tariq Siddiqui",
+    "customer_email": "tariq.s@nexustech.org",
+    "channel": "Mobile App",
+    "tags": [
+      "bug",
+      "ios18",
+      "crash"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Sarah Jenkins",
+    "predicted_queue": "Product Support",
+    "queue": "Product Support",
+    "queue_confidence": 0.2678,
+    "top_queues": [
+      {
+        "queue": "Product Support",
+        "confidence": 0.2678
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.1911
+      },
+      {
+        "queue": "Technical Support",
+        "confidence": 0.1166
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0683,
+      "Customer Service": 0.0591,
+      "General Inquiry": 0.0652,
+      "Human Resources": 0.0581,
+      "IT Support": 0.1911,
+      "Product Support": 0.2678,
+      "Returns and Exchanges": 0.0611,
+      "Sales and Pre-Sales": 0.0794,
+      "Service Outages and Maintenance": 0.0333,
+      "Technical Support": 0.1166
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4565,
+    "priority_distribution": {
+      "high": 0.4565,
+      "low": 0.166,
+      "medium": 0.3775
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'Product Support' (26.8%) | Priority 'HIGH' (45.6%)",
+        "timestamp": "2026-10-22T16:38:31.931962+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:31.931962+00:00",
+    "updated_at": "2026-10-22T16:38:31.931962+00:00",
+    "ticket_id": "TCK-0BBB1E1F",
+    "_id": "10196d96-e466-4a96-a2c2-03fdd5637620"
+  },
+  {
+    "subject": "Question regarding healthcare benefit enrollment deadline",
+    "description": "I would like to verify the submission deadline for the upcoming open enrollment window for supplemental vision and dental insurance for full-time remote staff.",
+    "customer_name": "Hannah Abbott",
+    "customer_email": "h.abbott@internal.corp",
+    "channel": "Internal Portal",
+    "tags": [
+      "hr",
+      "benefits",
+      "enrollment"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Karen Smith",
+    "predicted_queue": "Customer Service",
+    "queue": "Customer Service",
+    "queue_confidence": 0.1185,
+    "top_queues": [
+      {
+        "queue": "Customer Service",
+        "confidence": 0.1185
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1174
+      },
+      {
+        "queue": "Service Outages and Maintenance",
+        "confidence": 0.1169
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1174,
+      "Customer Service": 0.1185,
+      "General Inquiry": 0.0744,
+      "Human Resources": 0.1148,
+      "IT Support": 0.0925,
+      "Product Support": 0.0819,
+      "Returns and Exchanges": 0.0775,
+      "Sales and Pre-Sales": 0.0902,
+      "Service Outages and Maintenance": 0.1169,
+      "Technical Support": 0.116
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4774,
+    "priority_distribution": {
+      "high": 0.4774,
+      "low": 0.1877,
+      "medium": 0.3348
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'Customer Service' (11.8%) | Priority 'HIGH' (47.7%)",
+        "timestamp": "2026-10-22T16:38:29.362412+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:29.362412+00:00",
+    "updated_at": "2026-10-22T16:38:29.362412+00:00",
+    "ticket_id": "TCK-1A54061B",
+    "_id": "39a7cd76-5aad-45b2-8d28-d26121b41936"
+  },
+  {
+    "subject": "Enterprise tier volume discount inquiry for 500+ seats",
+    "description": "Our procurement department is evaluating your platform for our global customer operations team (~550 licenses). Could an account executive reach out to discuss multi-year enterprise volume pricing?",
+    "customer_name": "Jonathan Burke",
+    "customer_email": "j.burke@megaglobal.com",
+    "channel": "Web Portal",
+    "tags": [
+      "sales",
+      "enterprise",
+      "quote"
+    ],
+    "status": "Open",
+    "assigned_agent": "Elena Rostova",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2175,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2175
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1863
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.1069
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1863,
+      "Customer Service": 0.0783,
+      "General Inquiry": 0.0765,
+      "Human Resources": 0.0839,
+      "IT Support": 0.2175,
+      "Product Support": 0.0475,
+      "Returns and Exchanges": 0.0671,
+      "Sales and Pre-Sales": 0.1069,
+      "Service Outages and Maintenance": 0.0363,
+      "Technical Support": 0.0997
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5881,
+    "priority_distribution": {
+      "high": 0.1172,
+      "low": 0.2947,
+      "medium": 0.5881
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'IT Support' (21.8%) | Priority 'MEDIUM' (58.8%)",
+        "timestamp": "2026-10-22T16:38:26.761792+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:26.761792+00:00",
+    "updated_at": "2026-10-22T16:38:26.761792+00:00",
+    "ticket_id": "TCK-C5E053E6",
+    "_id": "97f66add-8bc4-48d9-9c90-71a9585bfe05"
+  },
+  {
+    "subject": "SSO SAML login fails with Invalid EntityID error",
+    "description": "After configuring our Okta SAML application according to the documentation, our employees receive error 'Invalid EntityID: urn:auth:org-482' upon authentication redirection.",
+    "customer_name": "Rachel Thorne",
+    "customer_email": "rachel.thorne@cybercloud.net",
+    "channel": "Web Portal",
+    "tags": [
+      "sso",
+      "saml",
+      "authentication",
+      "it-support"
+    ],
+    "status": "Open",
+    "assigned_agent": "Alex Rivera",
+    "predicted_queue": "Technical Support",
+    "queue": "Technical Support",
+    "queue_confidence": 0.2431,
+    "top_queues": [
+      {
+        "queue": "Technical Support",
+        "confidence": 0.2431
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1609
+      },
+      {
+        "queue": "Sales and Pre-Sales",
+        "confidence": 0.129
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.0398,
+      "Customer Service": 0.0367,
+      "General Inquiry": 0.0572,
+      "Human Resources": 0.1609,
+      "IT Support": 0.1266,
+      "Product Support": 0.0869,
+      "Returns and Exchanges": 0.0634,
+      "Sales and Pre-Sales": 0.129,
+      "Service Outages and Maintenance": 0.0565,
+      "Technical Support": 0.2431
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6274,
+    "priority_distribution": {
+      "high": 0.6274,
+      "low": 0.1305,
+      "medium": 0.2421
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'Technical Support' (24.3%) | Priority 'HIGH' (62.7%)",
+        "timestamp": "2026-10-22T16:38:24.179187+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:24.179187+00:00",
+    "updated_at": "2026-10-22T16:38:24.179187+00:00",
+    "ticket_id": "TCK-C26ABC2E",
+    "_id": "fe9f631a-64ac-46ff-b3fa-f9a8d923bfb9"
+  },
+  {
+    "subject": "Exchange requested for damaged ergonomic keyboard",
+    "description": "Package #PKG-9821 arrived yesterday with crushed corner packaging and several unresponsive keys on the ergonomic mechanical keyboard. I'd like to initiate an exchange for a replacement unit.",
+    "customer_name": "Lucas Meyer",
+    "customer_email": "lucas.m@berlin-design.de",
+    "channel": "Mobile App",
+    "tags": [
+      "hardware",
+      "exchange",
+      "damaged"
+    ],
+    "status": "In Progress",
+    "assigned_agent": "Carlos Gomez",
+    "predicted_queue": "IT Support",
+    "queue": "IT Support",
+    "queue_confidence": 0.2377,
+    "top_queues": [
+      {
+        "queue": "IT Support",
+        "confidence": 0.2377
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1603
+      },
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1102
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1102,
+      "Customer Service": 0.0705,
+      "General Inquiry": 0.0602,
+      "Human Resources": 0.092,
+      "IT Support": 0.2377,
+      "Product Support": 0.1603,
+      "Returns and Exchanges": 0.1008,
+      "Sales and Pre-Sales": 0.066,
+      "Service Outages and Maintenance": 0.0586,
+      "Technical Support": 0.0438
+    },
+    "predicted_priority": "medium",
+    "priority": "medium",
+    "priority_confidence": 0.5902,
+    "priority_distribution": {
+      "high": 0.1899,
+      "low": 0.22,
+      "medium": 0.5902
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'IT Support' (23.8%) | Priority 'MEDIUM' (59.0%)",
+        "timestamp": "2026-10-22T16:38:21.604151+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:21.604151+00:00",
+    "updated_at": "2026-10-22T16:38:21.604151+00:00",
+    "ticket_id": "TCK-258D8B81",
+    "_id": "03ce06c8-1db6-4ff9-8287-eb9e1b8f538f"
+  },
+  {
+    "subject": "How to export monthly compliance reports in PDF?",
+    "description": "Hello, our audit team needs to pull the monthly compliance logs in PDF or CSV format. Could you point me to the right dashboard section or provide a tutorial link?",
+    "customer_name": "Amira Al-Mansoor",
+    "customer_email": "amira.m@enterprise-holdings.ae",
+    "channel": "Web Portal",
+    "tags": [
+      "reports",
+      "question",
+      "compliance"
+    ],
+    "status": "Resolved",
+    "assigned_agent": "Priya Nair",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.1769,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.1769
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1394
+      },
+      {
+        "queue": "Human Resources",
+        "confidence": 0.1176
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.1769,
+      "Customer Service": 0.0908,
+      "General Inquiry": 0.084,
+      "Human Resources": 0.1176,
+      "IT Support": 0.1134,
+      "Product Support": 0.1394,
+      "Returns and Exchanges": 0.0747,
+      "Sales and Pre-Sales": 0.0557,
+      "Service Outages and Maintenance": 0.0414,
+      "Technical Support": 0.1061
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.6976,
+    "priority_distribution": {
+      "high": 0.6976,
+      "low": 0.1613,
+      "medium": 0.1411
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'Billing and Payments' (17.7%) | Priority 'HIGH' (69.8%)",
+        "timestamp": "2026-10-22T16:38:19.026688+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:19.026688+00:00",
+    "updated_at": "2026-10-22T16:38:19.026688+00:00",
+    "ticket_id": "TCK-79268A25",
+    "_id": "f162f617-f0bb-46d4-9625-98284d403226"
+  },
+  {
+    "subject": "Double charged on my annual subscription plan",
+    "description": "I noticed on my credit card statement this morning that I was billed $240 twice for the annual premium subscription. Please reverse the duplicate charge immediately.",
+    "customer_name": "Eleanor Vance",
+    "customer_email": "eleanor.vance@acme.io",
+    "channel": "Email",
+    "tags": [
+      "billing",
+      "duplicate-charge",
+      "urgent"
+    ],
+    "status": "Open",
+    "assigned_agent": "Marcus Chen",
+    "predicted_queue": "Billing and Payments",
+    "queue": "Billing and Payments",
+    "queue_confidence": 0.4952,
+    "top_queues": [
+      {
+        "queue": "Billing and Payments",
+        "confidence": 0.4952
+      },
+      {
+        "queue": "Product Support",
+        "confidence": 0.1181
+      },
+      {
+        "queue": "IT Support",
+        "confidence": 0.0624
+      }
+    ],
+    "all_queue_scores": {
+      "Billing and Payments": 0.4952,
+      "Customer Service": 0.0295,
+      "General Inquiry": 0.0433,
+      "Human Resources": 0.0475,
+      "IT Support": 0.0624,
+      "Product Support": 0.1181,
+      "Returns and Exchanges": 0.0534,
+      "Sales and Pre-Sales": 0.0484,
+      "Service Outages and Maintenance": 0.0509,
+      "Technical Support": 0.0514
+    },
+    "predicted_priority": "high",
+    "priority": "high",
+    "priority_confidence": 0.4057,
+    "priority_distribution": {
+      "high": 0.4057,
+      "low": 0.1944,
+      "medium": 0.3999
+    },
+    "notes": [
+      {
+        "author": "AI Triage Engine",
+        "message": "Classified automatically: Queue 'Billing and Payments' (49.5%) | Priority 'HIGH' (40.6%)",
+        "timestamp": "2026-10-22T16:38:13.851399+00:00"
+      }
+    ],
+    "created_at": "2026-10-22T16:38:13.851399+00:00",
+    "updated_at": "2026-10-22T16:38:13.851399+00:00",
+    "ticket_id": "TCK-A3B0FC06",
+    "_id": "532a3e50-1698-4b60-a8a5-23d59d9c9e12"
+  }
+]
